@@ -1,0 +1,23 @@
+{
+  "name": "jsgame",
+  "version": "1.0.0",
+  "description": "JavaScript Game",
+  "main": "JSGame.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deusletum/JSGame.git"
+  },
+  "keywords": [
+    "JS",
+    "Game"
+  ],
+  "author": "Dean Gjedde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deusletum/JSGame/issues"
+  },
+  "homepage": "https://github.com/deusletum/JSGame#readme"
+}
